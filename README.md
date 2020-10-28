@@ -4,7 +4,7 @@
 
 **> Estudande de Análise e desenvolvimento de sistemas.** 
 
-**> Criador de contéudo para **[OnionHack]('onionhack.netlify.app')**.**
+**> Criador de contéudo para **[OnionHack]('http://onionhack.netlify.app')**.**
 
 ### Tecnologias que utilizo
 
