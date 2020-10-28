@@ -29,4 +29,5 @@
 ### My projects in development 
 
 > **Acadpro - Sistema para gerenciamento de academias.** 
+
 > **Chat_veloster - Chat desenvolvido com socketio e express.**
