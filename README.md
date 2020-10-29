@@ -2,7 +2,7 @@
 
 **> Aqui você irá encontrar de tudo um pouco :)** 
 
-**> Estudande de Análise e desenvolvimento de sistemas.** 
+**> Estudante de Análise e desenvolvimento de sistemas.** 
 
 **> Criador de contéudo para **[OnionHack](https://onionhack.netlify.app)**.**
 
