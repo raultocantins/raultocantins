@@ -36,6 +36,9 @@
 
 > **Chat_veloster - Chat desenvolvido com socketio e express.**
 
+
+> **TranslateMe - Tradutor desenvolvido com electron+reactjs.**
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/raultocantins/raultocantins">
