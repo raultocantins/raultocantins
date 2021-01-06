@@ -24,7 +24,7 @@
 
 #### Mobile
 
-> **ReactNative - Flutter **
+> **ReactNative - Flutter**
 
 #### Infraestrutura
 
