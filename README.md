@@ -10,7 +10,7 @@
 
 #### Frontend 
 
-> **Reactjs - ReactNative - Vuejs - AngularJs** 
+> **Reactjs - Vuejs - AngularJs - Dart** 
 
 > **Boostrap - BulmaCss - Jquery**
 
@@ -21,6 +21,10 @@
 > **MongoDB - PostgreSQL - Graphql**
 
 > **Token-Jwt - Passport - Knex** 
+
+#### Mobile
+
+> **ReactNative - Flutter **
 
 #### Infraestrutura
 
