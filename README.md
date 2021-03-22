@@ -19,6 +19,7 @@
 > **Nodejs - Python - Socketio - Websockets** 
 
 > **MongoDB - PostgreSQL - Graphql**
+> ![Alt text](https://images.tutorialedge.net/images/node.png)
 
 > **Token-Jwt - Passport - Knex** 
 
