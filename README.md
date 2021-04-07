@@ -10,7 +10,7 @@
 
 #### Frontend 
 
-> **[ReactJs](https://miro.medium.com/max/2560/0*1V_xALlt1BCKvFBW.jpeg) - Vuejs - AngularJs - Dart** 
+> **[ReactJs]("https://miro.medium.com/max/2560/0*1V_xALlt1BCKvFBW.jpeg") - Vuejs - AngularJs - Dart** 
 
 > **Boostrap - BulmaCss - Jquery**
 
