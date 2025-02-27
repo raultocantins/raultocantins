@@ -1,47 +1,46 @@
-### Welcome to my page github 👋 
+### Welcome to my GitHub page 👋
 
-**> Aqui você irá encontrar de tudo um pouco :)** 
+**> Here, you'll find a bit of everything :)**
 
-**> Análista de Sistemas.** 
+**> Systems Analyst.**
 
-**> Criador de contéudo para **[OnionHack](https://onionhack.netlify.app)**.**
+**> Content Creator for [OnionHack](https://onionhack.netlify.app).**
 
-### Tecnologias que utilizo
+### Technologies I use
 
-#### Frontend 
+#### Frontend
 
-> **ReactJs - Vuejs - AngularJs - Dart** 
+> **ReactJs - VueJs - AngularJs - Dart**
 
-> **Boostrap - BulmaCss - Jquery**
+> **Bootstrap - BulmaCss - jQuery**
 
 #### Backend
 
-> **Nodejs - Python - Socketio - Websockets** 
+> **NodeJs - Python - Socket.io - Websockets**
 
-> **MongoDB - PostgreSQL - Graphql**
+> **MongoDB - PostgreSQL - GraphQL**
 
-> **Token-Jwt - Passport - Knex** 
+> **Token-JWT - Passport - Knex**
 
 #### Mobile
 
-> **ReactNative - Flutter**
+> **React Native - Flutter**
 
-#### Infraestrutura
+#### Infrastructure
 
-> **Docker - Vagrant - VirtualBox** 
+> **Docker - Vagrant - VirtualBox**
 
-### My projects in development 
+### My ongoing projects
 
-> **Acadpro - Sistema para gerenciamento de academias.** 
+> **Acadpro - A system for gym management.**
 
-> **Chat_veloster - Chat desenvolvido com socketio e express.**
+> **Chat_veloster - A chat application developed with Socket.io and Express.**
 
-> **TranslateMe - Tradutor desenvolvido com electron+reactjs.**
+> **TranslateMe - A translator built with Electron and ReactJs.**
 
-> **FisicGym - Sistema para gerenciamento de academia.**
+> **FisicGym - A gym management system.**
 
-
-## &#x1f4c8; My GitHub Stats
+## 📈 My GitHub Stats
 
 <a href="https://github.com/raultocantins/raultocantins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultocantins&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
