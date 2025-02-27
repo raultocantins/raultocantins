@@ -30,16 +30,6 @@
 
 > **Docker - Vagrant - VirtualBox**
 
-### My ongoing projects
-
-> **Acadpro - A system for gym management.**
-
-> **Chat_veloster - A chat application developed with Socket.io and Express.**
-
-> **TranslateMe - A translator built with Electron and ReactJs.**
-
-> **FisicGym - A gym management system.**
-
 ## 📈 My GitHub Stats
 
 <a href="https://github.com/raultocantins/raultocantins">
