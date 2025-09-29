@@ -1,40 +1,59 @@
-### Welcome to my GitHub page 👋
+<h1 align="center">👋 Hey there! I'm Alex Raul</h1>
+<p align="center">
+  <b>Mobile Developer | Systems Analyst | Tech Content Creator</b><br>
+  Passionate about building high-performance mobile apps and sharing knowledge with the dev community.
+</p>
 
-**> Here, you'll find a bit of everything :)**
+---
 
-**> Systems Analyst.**
+## 🚀 About Me
 
-**> Content Creator for [OnionHack](https://onionhack.netlify.app).**
+- 🎯 Focused on <b>mobile-first development</b> using <b>Flutter</b> and <b>React Native</b>
+- 🧠 Systems Analyst with experience in full-stack development
+- 📚 Content creator at <a href="https://onionhack.netlify.app">OnionHack</a>
+- 🌱 Always learning and experimenting with new mobile technologies
 
-### Technologies I use
+---
 
-#### Frontend
+## 📱 Mobile Technologies
 
-> **ReactJs - VueJs - AngularJs - Dart**
+| Frameworks     | Languages              | Tools               |
+|----------------|------------------------|---------------------|
+| Flutter         | Dart                   | Firebase            |
+| React Native    | JavaScript / TypeScript| Expo                |
+| Swift (basics)  | Kotlin (basics)        | REST / GraphQL APIs |
 
-> **Bootstrap - BulmaCss - jQuery**
+---
 
-#### Backend
+## 💻 Other Tech Stack
 
-> **NodeJs - Python - Socket.io - Websockets**
+### Frontend
+`React` · `Vue` · `Angular` · `Bootstrap` · `Bulma` · `jQuery`
 
-> **MongoDB - PostgreSQL - GraphQL**
+### Backend
+`Node.js` · `Python` · `Socket.io` · `Websockets` · `MongoDB` · `PostgreSQL` · `JWT` · `Passport` · `Knex`
 
-> **Token-JWT - Passport - Knex**
+### DevOps & Infra
+`Docker` · `Vagrant` · `VirtualBox`
 
-#### Mobile
+---
 
-> **React Native - Flutter**
+## 📊 GitHub Stats
 
-#### Infrastructure
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raultocantins&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultocantins&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-> **Docker - Vagrant - VirtualBox**
+---
 
-## 📈 My GitHub Stats
+## 🌐 Connect with Me
 
-<a href="https://github.com/raultocantins/raultocantins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultocantins&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/raultocantins/raultocantins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raultocantins&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raul GitHub Stats" />
-</a>
+- 💼 <a href="https://www.linkedin.com/in/seu-perfil">LinkedIn</a>
+- 🧠 <a href="https://onionhack.netlify.app">OnionHack</a>
+- 📬 Email: seuemail@exemplo.com
+
+---
+
+> “Code is poetry. Mobile is the canvas.” 🎨
